@@ -1,3 +1,5 @@
+"""Python- Tipagem forte e dinâmica"""
+
 """ A função print, recebe argumentos e mostra na tela"""
 
 print(1,2,3)
