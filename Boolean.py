@@ -1,4 +1,4 @@
-# Função boolean
+# Função boolean, serve para questionar dados
 
 print(10 == 10) # Sim = True (verdaeiro)
 print(10 == 11) # Não = False (falso)
