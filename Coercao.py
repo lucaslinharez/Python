@@ -22,3 +22,9 @@ print(type(z))  # Saída mostrando o type convertido
 # Exemplo:
 
 int("abc")  # Vai gerar ValueError
+
+# Mais exemplos de conversão
+
+print(str(10) + 'a')
+print(type(float('10') + 10))
+print(type(bool(' ')))
