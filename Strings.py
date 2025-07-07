@@ -16,3 +16,15 @@ print("\"Olá mundo!\"")
 print('"Olá, mundo!"')
 
 """O processo pode ser feito ao contrário e não terá problemas"""
+
+# Para formatação de f-strings: 
+
+nome = 'Bruno Silva'
+altura = 1.80
+peso = 90
+cidade = 'São Paulo'
+
+linha1 = f'As informções de cadastro do {nome} são: {altura:.2f}, {peso}kg, e é da cidade de {cidade}'
+
+print(linha1)
+
