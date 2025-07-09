@@ -1,7 +1,7 @@
-#Python
+# Python
  Principais códigos para iniciantes
 
-##História do Python
+## História do Python
 
 **Origem e Criação**
 - Criador: Guido van Rossum, um programador holandês.
@@ -11,13 +11,14 @@
 - Motivação: Guido queria criar uma linguagem de programação mais fácil de aprender, legível e poderosa. Ele trabalhava no Centrum Wiskunde & Informatica (CWI) na Holanda e buscava uma alternativa ao ABC, uma linguagem didática usada no instituto.
 
 
-##Primeiras Versões
+## Primeiras Versões
 **- Python 0.9.0 (1991): Primeira versão pública.**
 Já incluía recursos como: funções, exceções, tipos de dados básicos (str, list, dict), e módulos.
 
 **- Python 1.0 (1994): Tornou-se mais estável e começou a crescer na comunidade acadêmica e em projetos pequenos.**
 
-##Evolução da Linguagem
+## Evolução da Linguagem
+
 **🐍 Python 2.x (2000)**
 Grande salto em popularidade.
 Tinha muitos recursos modernos, mas também algumas decisões problemáticas de design (como o print ser uma palavra-chave e não uma função).
@@ -35,12 +36,12 @@ Introduziu:
 - melhorias em desempenho e tipagem.
 
 
-##Filosofia e Design
+## Filosofia e Design
 - Clareza acima de complexidade.
 - Código legível e com menos “mágica”.
 - Uso da indentação obrigatória para definir blocos de código (em vez de chaves {}), algo único e controverso no início, mas hoje amplamente elogiado.
 
-##Curiosidades
+## Curiosidades
 📺 Nome "Python": vem do grupo britânico de comédia "Monty Python", e não da cobra. Guido era fã do humor deles.
 
 🧠 É usado por gigantes como: Google, YouTube, NASA, Netflix, Dropbox, Instagram.
@@ -51,7 +52,7 @@ Introduziu:
 
 🐍 Guido van Rossum foi chamado de "Benevolent Dictator For Life" (BDFL) da linguagem até 2018, quando se afastou da liderança.
 
-##Python Hoje
+## Python Hoje
 Versões mais recentes (3.11 e 3.12) trouxeram:
 Desempenho muito melhorado (até 50% mais rápido), melhorias em sintaxe, debugging e tipagem estática opcional com typing.
 
