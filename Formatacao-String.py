@@ -30,3 +30,5 @@ Funciona além de strings
 
 variavel = 'Olá mundo'
 print(len(variavel))
+
+#Resultado: 9 caracteres incluindo espaço
