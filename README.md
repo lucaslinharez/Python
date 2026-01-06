@@ -42,13 +42,13 @@ Introduziu:
 - Uso da indentação obrigatória para definir blocos de código (em vez de chaves {}), algo único e controverso no início, mas hoje amplamente elogiado.
 
 ## Curiosidades
-📺 Nome "Python": vem do grupo britânico de comédia "Monty Python", e não da cobra. Guido era fã do humor deles.
+ Nome "Python": vem do grupo britânico de comédia "Monty Python", e não da cobra. Guido era fã do humor deles.
 
-🧠 É usado por gigantes como: Google, YouTube, NASA, Netflix, Dropbox, Instagram.
+ É usado por gigantes como: Google, YouTube, NASA, Netflix, Dropbox, Instagram.
 
-🧪 É muito comum em ciência de dados, inteligência artificial, automação, back-end web e ensino de programação.
+ É muito comum em ciência de dados, inteligência artificial, automação, back-end web e ensino de programação.
 
-🧰 Tem uma comunidade gigante e vasta coleção de bibliotecas (PyPI).
+ Tem uma comunidade gigante e vasta coleção de bibliotecas (PyPI).
 
 🐍 Guido van Rossum foi chamado de "Benevolent Dictator For Life" (BDFL) da linguagem até 2018, quando se afastou da liderança.
 
