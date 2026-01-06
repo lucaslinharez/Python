@@ -19,12 +19,12 @@ Já incluía recursos como: funções, exceções, tipos de dados básicos (str,
 
 ## Evolução da Linguagem
 
-**🐍 Python 2.x (2000)**
+** Python 2.x (2000)**
 Grande salto em popularidade.
 Tinha muitos recursos modernos, mas também algumas decisões problemáticas de design (como o print ser uma palavra-chave e não uma função).
 Teve vida longa, mas foi descontinuado em 1º de janeiro de 2020.
 
-**🐍 Python 3.x (2008)**
+** Python 3.x (2008)**
 Reescrita com melhorias estruturais.
 Não é compatível com o Python 2, o que causou resistência inicial.
 
@@ -50,7 +50,7 @@ Introduziu:
 
  Tem uma comunidade gigante e vasta coleção de bibliotecas (PyPI).
 
-🐍 Guido van Rossum foi chamado de "Benevolent Dictator For Life" (BDFL) da linguagem até 2018, quando se afastou da liderança.
+ Guido van Rossum foi chamado de "Benevolent Dictator For Life" (BDFL) da linguagem até 2018, quando se afastou da liderança.
 
 ## Python Hoje
 Versões mais recentes (3.11 e 3.12) trouxeram:
