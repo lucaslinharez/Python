@@ -58,3 +58,58 @@ if numero >= 10 :
     print(f'O numero {numero} é maior que 10')
 else: 
     print(f'O numero {numero} não é maior que 10')
+
+
+"""
+Um programa que peça ao usuário um numero inteiro, informe se é par ou impar
+Caso o usuário não digite um numero inteiro, informe que não é. 
+
+"""
+
+numero = int(input('Insira um numero inteiro: '))
+
+if numero % 2 == 0:
+    print("O número é par")
+else:
+    print("O numero é impar")
+
+"""
+Um programa que responde de acordo com o horario recebido. Ex; Bom dia.
+
+"""
+
+entrada = input("Insira o horário: ")
+
+try: 
+    hora = int(entrada)
+    
+    if  hora >= 0 and hora <= 11:
+        print("Bom dia")
+    elif hora >= 12 and hora <= 17:
+        print("Boa tarde")
+    elif hora >= 18 and hora <= 23:
+        print("Boa noite")
+    else:
+        print('Não conheço essa hora')
+except:
+    print('Somente numeros inteiros, tente novamente.')
+
+"""
+Um programa que solicita o nome do usuário, e caso tenha 4 letras ou menos
+retorna "seu nome é curto"; se tiver entre 5 e 6 letras, retorna outra msg,
+maior que 6 letras, "Seu nome é muito grande".
+
+"""
+
+nome = input("Digite seu nome")
+contagem_nome = len(nome)
+
+if contagem_nome > 1:
+    if contagem_nome <= 4:
+        print('Seu nome é curto')
+    elif contagem_nome >= 5 and contagem_nome <= 6:
+        print("Seu nome é tamanho médio")
+    else:
+        print('Seu nome é grande')
+else:
+    print('Por favor, digite ao menos uma letra')
